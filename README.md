@@ -1,6 +1,6 @@
 videopreview.js
 ===============
-[![Bower version](https://badge.fury.io/bo/videopreview.svg)](http://badge.fury.io/bo/videopreview)
+[![Bower version](https://badge.fury.io/bo/videopreview.png)](http://badge.fury.io/bo/videopreview)
 
 A Library for Video Preview from YouTube, Vimeo etc.
 
