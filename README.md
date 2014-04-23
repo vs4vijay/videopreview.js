@@ -2,6 +2,10 @@ videopreview.js
 ===============
 [![Bower version](https://badge.fury.io/bo/videopreview.png)](http://badge.fury.io/bo/videopreview)
 [![Build Status](https://travis-ci.org/vs4vijay/videopreview.js.svg?branch=master)](https://travis-ci.org/vs4vijay/videopreview.js)
+[![Github Release](http://img.shields.io/github/release/vs4vijay/videopreview.svg)](https://travis-ci.org/vs4vijay/videopreview.js)
+[![Github Tag](http://img.shields.io/github/tag/vs4vijay/videopreview.svg)](https://travis-ci.org/vs4vijay/videopreview.js)
+[![Downloads](http://img.shields.io/vs4vijay/dm/videopreview.svg)](https://travis-ci.org/vs4vijay/videopreview.js)
+[![Version](http://img.shields.io/vs4vijay/v/videopreview.svg)](https://travis-ci.org/vs4vijay/videopreview.js)
 
 A Library for Video Preview from YouTube, Vimeo etc.
 
