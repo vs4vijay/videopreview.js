@@ -1,0 +1,19 @@
+{
+    "name": "videopreview",
+    "type": "library",
+    "description": "A Library for Video Preview from YouTube, Vimeo etc.",
+    "keywords": ["videopreview", "video", "preview", "youtube", "vimeo"],
+    "homepage": "http://github.com/vs4vijay/videopreview",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vijay Soni",
+            "email": "vs4vijay@gmail.com",
+            "homepage": "http://vizaysoni.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "node": ">=0.0.8"
+    }
+}
