@@ -1,0 +1,25 @@
+{
+  "name": "videopreview",
+  "main": "videopreview.js",
+  "version": "0.0.1",
+  "authors": [
+    "Vijay Soni <vs4vijay@gmail.com>"
+  ],
+  "description": "A Library for Video Preview from YouTube, Vimeo etc.",
+  "keywords": [
+    "videopreview",
+    "video",
+    "preview",
+    "youtube",
+    "vimeo"
+  ],
+  "license": "MIT",
+  "homepage": "http://vizaysoni.com/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
