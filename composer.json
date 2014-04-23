@@ -1,5 +1,5 @@
 {
-    "name": "videopreview",
+    "name": "videopreview/videopreview",
     "type": "library",
     "description": "A Library for Video Preview from YouTube, Vimeo etc.",
     "keywords": ["videopreview", "video", "preview", "youtube", "vimeo"],
