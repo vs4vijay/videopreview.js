@@ -1,0 +1,26 @@
+{
+  "name": "videopreview",
+  "version": "0.0.1",
+  "description": "A Library for Video Preview from YouTube, Vimeo etc.",
+  "main": "videopreview.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vs4vijay/videopreview.js.git"
+  },
+  "keywords": [
+    "videopreview",
+    "video",
+    "preview",
+    "youtube",
+    "vimeo"
+  ],
+  "author": "Vijay Soni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vs4vijay/videopreview.js/issues"
+  },
+  "homepage": "https://github.com/vs4vijay/videopreview.js"
+}
