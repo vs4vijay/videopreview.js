@@ -59,3 +59,7 @@ VideoPreview.getThumbnailUrl(url).then(function(data) {
   $scope.videoThumbnailLink = data;
 });
 ```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vs4vijay/videopreview.js/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
